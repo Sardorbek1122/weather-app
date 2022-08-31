@@ -5,7 +5,7 @@ The demo of the following Weather-app can be viewed through this link
   - [Demo Link](https://sardorbek1122.github.io/weather-app/)
 
 # Technologies Used
-Here are some technologies while implementing this landing page:
+Here are some technologies while implementing:
  - React.js
  - APIs
  - HTML5
